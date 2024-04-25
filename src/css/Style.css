@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: aquamarine;
+}
+header{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+h1{
+    margin: 0;
+}
+section{
+    margin-bottom: 20px;
+}
+h3{
+    color: blue;
+    margin-top: 0;
+}
+p{
+    line-height: 1.6; 
+}
+footer{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
